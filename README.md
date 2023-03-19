@@ -1,1 +1,1 @@
-# Pixels_seminar_assignments
+# cOdE_assignments(Hrk)
